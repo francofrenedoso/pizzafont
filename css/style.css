@@ -61,11 +61,14 @@ header{
     position: absolute;
     top: 20px;
     left: 19.98px;
-    color: #FC200C;
     height: 28px;
     font-size: 24px;
     line-height: 28px;
+    font-weight: 700px;
+    color: #FC200C;
 }
+.titulomain span{
+    color: #fff;}
 .ranking{
     display: flex;
     justify-content: flex-start;
