@@ -116,6 +116,7 @@ footer{
 .footer-nav{
     display: flex;
     justify-content: space-between;
+    position: relative;
 }
 .nav2{
     display: flex;
@@ -132,4 +133,21 @@ footer{
     padding-left: 20px;
     height: 112px;
     text-align: left;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+.logopizza{
+    display: flex;
+    position: absolute;
+    top: 35PX;
+    right: 162px;
+
+}
+.pizzafront{
+    position: absolute;
+    top: 61px;
+    right: 42px;
 }
